@@ -23,7 +23,7 @@ agriloanscore_model.pkl: The trained and serialized model ready for inference.
 Clone the repository:
 
 bash
-git clone https://github.com/ShobanMaryo/Agri-loan-Score
+git clone git@github.com:ShobanMaryo/Agri-loan-Score.git
 cd AgriLoanScore
 Install dependencies:
 
